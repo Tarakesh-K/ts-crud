@@ -1,0 +1,13 @@
+.main {
+    margin-top: 40px;
+}
+
+.col-width button {
+    width: 80%;
+    border-radius: 10px;
+    background-color: blue;
+    color: lightblue;
+    font-style: italic;
+    font-size: large;
+    padding: 200px 0px;
+}
